@@ -1,4 +1,8 @@
-<p align="center"> <img src="./img.png" alt="Project Banner" width="100%"> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nehajobin/greenlinkk/988bdd6a12af4d0e287cb516fc6ef3dfbe80fe32/img.png" 
+       alt="Project Banner" 
+       width="100%">
+</p>
 GreenLink 🎯
 Basic Details
 Team Name: Newera
